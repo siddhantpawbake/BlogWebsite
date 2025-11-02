@@ -44,7 +44,7 @@ console.log("Auth status:", authStatus)
       <Container>
         <nav className='flex'>
           <div className='mr-2'>
-            <Link to='/'>
+            <Link to='/E:\VS code\FullStack\React\React-Practice-Projects\public\Gemini_Generated_Image_2q6o4u2q6o4u2q6o-removebg-preview.png'>
               <Logo width='0px'   />
 
               </Link>
