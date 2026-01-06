@@ -6,7 +6,7 @@
 
 **A modern, responsive blog platform built with Vite, React and Tailwind CSS.**
 
-[Live Demo](https://blog-website-omega-fawn.vercel.app)
+[Live Demo](https://sidwrites.vercel.app/)
 
 </div>
 
