@@ -184,7 +184,4 @@ Made with ❤️ by Siddhant Pawbake
 
 </div>
 
-# Project Title
-
-Brief description of your project.
 
