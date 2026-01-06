@@ -6,7 +6,8 @@
 
 **A modern, responsive blog platform built with Vite, React and Tailwind CSS.**
 
-[Live Demo](https://sidwrites.vercel.app/)
+[![LiveDemo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://sidwrites.vercel.app)
+
 
 </div>
 
